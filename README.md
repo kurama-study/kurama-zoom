@@ -6,19 +6,19 @@ This repo is an [Angular](https://angular.io/) app generated via the [Angular CL
 
 To get started, clone the repo:
 
-`$ git clone https://github.com/zoom/websdk-sample-angular.git`
+`$ git clone https://github.com/kurama-study/kurama-zoom.git`
 
 ## Setup
 
 1. Once cloned, navigate to the `websdk-sample-angular` directory:
 
-   `$ cd websdk-sample-angular`
+   `$ cd kurama-zoom`
 
 1. Then install the dependencies:
 
    `$ npm install`
 
-1. Open the `websdk-sample-angular` directory in your code editor.
+1. Open the `kurama-zoom` directory in your code editor.
 
 1. Open the `src/app/app.component.ts` file, and enter values for the variables:
 
